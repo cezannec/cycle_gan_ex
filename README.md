@@ -1,2 +1,3 @@
-# cycle_gan_ex
-CycleGAN, defined and trained in PyTorch.
+# CycleGAN 
+
+This repository contains a notebook that defines and trains a CycleGAN on a dataset.
